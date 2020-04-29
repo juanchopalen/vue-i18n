@@ -1,0 +1,6 @@
+{
+  "car": "carro | carros",
+  "goodbye": "Adiós",
+  "hello": "Hola {name}",
+  "person": "persona | {count} personas"
+}
