@@ -2,5 +2,8 @@
   "car": "car | cars",
   "goodbye": "Auf wiedarsehen",
   "hello": "Hallo {name}",
-  "person": ""
+  "person": "no people | one person | {n} people",
+  "apple": "no apples | an apple | {n} apples",
+  "terms": "Ik accepteer de {termsLink} het servicecontract",
+  "termsLink": "voorwaarden van"
 }

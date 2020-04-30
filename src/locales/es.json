@@ -2,5 +2,7 @@
   "car": "carro | carros",
   "goodbye": "Adiós",
   "hello": "Hola {name}",
-  "person": "persona | {count} personas"
+  "person": "persona | {count} personas",
+  "terms": "Acepto los {termsLink} del contrato de servicio",
+  "termsLink": "términos y condiciones"
 }

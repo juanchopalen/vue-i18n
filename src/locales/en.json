@@ -3,5 +3,7 @@
   "goodbye": "Goodbye",
   "hello": "hello {name}",
   "person": "no people | one person | {n} people",
-  "apple": "no apples | an apple | {n} apples"
+  "apple": "no apples | an apple | {n} apples",
+  "terms": "I accept the {termsLink} of the service contract",
+  "termsLink": "terms and conditions"
 }

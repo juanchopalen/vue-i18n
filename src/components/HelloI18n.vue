@@ -16,8 +16,13 @@
     <p>{{ $d(new Date(), "short", 'en-GB') }}</p>
     <p>{{ $d(new Date(), "long") }}</p>-->
 
-    <p>{{ $n(100, 'currency') }}</p>
+    <!-- <p>{{ $n(100, 'currency') }}</p> -->
 
+    <i18n path="terms" tag="p">
+      <template slot="termsLink">
+        <a href="#">{{ $t('termsLink') }}</a>
+      </template>
+    </i18n>
     <button @click="setLocale('en')" class="button">English</button>
     <button @click="setLocale('es')" class="button">Spanish</button>
     <button @click="setLocale('de')" class="button">German</button>
